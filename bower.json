@@ -1,0 +1,12 @@
+{
+  "name": "angular-boilerplate",
+  "version": "1.0.0",
+  "description": "A starter project for AngularJS",
+  "homepage": "https://github.com/angular/angular-seed",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "~1.5.0",
+    "angular-route": "~1.5.0",
+    "angular-loader": "~1.5.0"
+  }
+}
